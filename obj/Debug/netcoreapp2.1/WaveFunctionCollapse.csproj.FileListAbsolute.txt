@@ -1,0 +1,153 @@
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples.xml
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\3Bricks.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Angular.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\bridge.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\data.xml
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\ground.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\river.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\riverturn.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\road.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\roadturn.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\t.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\tower.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\wall.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\wallriver.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Castle\wallroad.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Cat.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Cats.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Cave.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Chess.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circles\b.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circles\b_half.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circles\b_i.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circles\b_quarter.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circles\data.xml
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circles\w.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circles\w_half.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circles\w_i.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circles\w_quarter.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\bridge.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\component.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\connection.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\corner.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\data.xml
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\dskew.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\skew.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\substrate.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\t.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\track.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\transition.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\turn.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\viad.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\vias.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Circuit\wire.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\City.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\ColoredCity.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Dungeon.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Fabric.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Flowers.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Forest.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Hogs.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Knot.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Knots\corner.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Knots\cross.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Knots\data.xml
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Knots\empty.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Knots\line.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Knots\t.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Lake.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\LessRooms.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Link.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Link2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\MagicOffice.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Maze.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Mazelike.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\MoreFlowers.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Mountains.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Nested.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Office.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Office2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Paths.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Platformer.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Qud.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\RedDot.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\RedMaze.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\bend.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\corner.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\corridor.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\data.xml
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\door.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\empty.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\side.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\t.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\turn.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rooms\wall.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Rule126.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\ScaledMaze.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Sewers.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\SimpleKnot.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\SimpleMaze.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\SimpleWall.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Skew1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Skew2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Skyline.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Skyline2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\SmileCity.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Spirals.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliff 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliff 1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliff 2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliff 3.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliffcorner 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliffcorner 1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliffcorner 2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliffcorner 3.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliffturn 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliffturn 1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliffturn 2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\cliffturn 3.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\data.xml
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\grass 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\grasscorner 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\grasscorner 1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\grasscorner 2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\grasscorner 3.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\road 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\road 1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\road 2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\road 3.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\roadturn 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\roadturn 1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\roadturn 2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\roadturn 3.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\watercorner 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\watercorner 1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\watercorner 2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\watercorner 3.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\waterside 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\waterside 1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\waterside 2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\waterside 3.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\waterturn 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\waterturn 1.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\waterturn 2.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\waterturn 3.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\water_a 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\water_b 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Summer\water_c 0.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Town.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\TrickKnot.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Village.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Water.png
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\WaveFunctionCollapse.deps.json
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\WaveFunctionCollapse.runtimeconfig.json
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\WaveFunctionCollapse.runtimeconfig.dev.json
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\WaveFunctionCollapse.dll
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\WaveFunctionCollapse.pdb
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\obj\Debug\netcoreapp2.1\WaveFunctionCollapse.csprojAssemblyReference.cache
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\obj\Debug\netcoreapp2.1\WaveFunctionCollapse.AssemblyInfoInputs.cache
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\obj\Debug\netcoreapp2.1\WaveFunctionCollapse.AssemblyInfo.cs
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\obj\Debug\netcoreapp2.1\WaveFunctionCollapse.dll
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\obj\Debug\netcoreapp2.1\WaveFunctionCollapse.pdb
+C:\Users\maybe\Documents\CMPM 202\Project 1\WaveFunctionCollapse\bin\Debug\netcoreapp2.1\samples\Instrument.png
