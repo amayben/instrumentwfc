@@ -47,22 +47,26 @@ public void draw(){
     image(img, 0, 0);
     if(arrayFilled == false){
       for(int j = 0; j <= 24; j++){
-        ArrayList <Float> ArrayY = new ArrayList<Float>();
+        ArrayList <String> ArrayY = new ArrayList<String>();
+        ArrayY.add("\n");
+        ArrayY.add("100");
         for(int i = 0; i <= 24; i++){
           c = get(j, i);
           print(hex(c));
+          ArrayY.add("\n ");
           if(hex(c).equals(WHITE)){
-            ArrayY.add(0.0f);
+            ArrayY.add("0.0");
           }else if(hex(c).equals(LIGHT_GRAY)){
-            ArrayY.add(0.25f);
+            ArrayY.add("0.25");
           }else if(hex(c).equals(DARK_GRAY)){
-            ArrayY.add(0.75f);
+            ArrayY.add("0.75");
           }else if(hex(c).equals(BLACK)){
-            ArrayY.add(1.0f);
+            ArrayY.add("1.0");
           }else{
-            ArrayY.add(0.5f);
+            ArrayY.add("0.5");
           }
         }
+        ArrayY.add("\n");
         ArrayX.add(ArrayY);       
       }
       arrayFilled = true;
