@@ -77,5 +77,4 @@
 	<simpletiled name="Circuit" subset="Turnless" width="7" height="7" periodic="True" textOutput="True"/>
 	-->
 	<overlapping name="Instrument" N="2" symmetry="2" ground="-1" periodic="True"/>
-	<overlapping name="Instrument" N="2" symmetry="2" ground="-1" periodic="True"/>
 </samples>
