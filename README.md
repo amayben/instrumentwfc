@@ -1,7 +1,13 @@
-# WaveFunctionCollapse
+# Timbral Generator
+By Tamara Duplantis, Alexander Mayben, and Celeste Jewett
+
 This program generates bitmaps that are locally similar to the input bitmap.  Base code by [Maxim Gumin](https://github.com/mxgmn).
 
-Developed for CMPM 202, Winter 2020, UCSC by Tamara Duplantis, Alexander Mayben, and Celeste Jewett.
+Presentation available [here](https://docs.google.com/presentation/d/1ZgaelACxehbGvmVQtzQAKckEuWAsjyviJKJuH4M4Spw/edit?usp=sharing).
+
+Developed for CMPM 202, Winter 2020, UCSC.
+
+![WFC/PureData](https://i.imgur.com/mgCeSg9.png "Raw WFC output and accompanying Pure Data patch.")
 
 ## Directions
 1. From the command line, run ```dotnet run WaveFunctionCollapse.csproj```.  The resulting code should generate an image using WFC for encodings of several different synthesized instruments.
